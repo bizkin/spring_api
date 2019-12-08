@@ -9,6 +9,7 @@ public class DemoApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(DemoApplication.class, args);
 		System.out.println("This is Why VSCODE is the best! testing after commited file");
+		System.out.println("TESTING AGAIN OMG WHATS THIS COMPLICATED?");
 	}
 
 }
